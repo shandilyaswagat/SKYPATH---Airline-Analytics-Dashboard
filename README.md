@@ -75,8 +75,8 @@ To design an interactive and executive-friendly analytics solution that provides
 ## **Screenshot**  
 (Add your dashboard images here)  
 You can upload screenshots to your GitHub repository and paste their links here:  
-- [Dashboard 1 – Overview](https://github.com/shandilyaswagat/SKYPATH---Airline-Analytics-Dashboard/blob/main/Overall_Dashboard.heic)  
-- [Dashboard 2 – Airport Performance](https://github.com/shandilyaswagat/SKYPATH---Airline-Analytics-Dashboard/blob/main/Airport_analysis.heic)  
-- [Dashboard 3 – Delay & Cancellation Analysis](https://github.com/shandilyaswagat/SKYPATH---Airline-Analytics-Dashboard/blob/main/Delay_Analysis.heic)  
+- [Dashboard 1 – Overview](https://github.com/shandilyaswagat/SKYPATH---Airline-Analytics-Dashboard/blob/main/Overall_Dashboard.PNG)  
+- [Dashboard 2 – Airport Performance](https://github.com/shandilyaswagat/SKYPATH---Airline-Analytics-Dashboard/blob/main/Airport_Dashboard.PNG)  
+- [Dashboard 3 – Delay & Cancellation Analysis](https://github.com/shandilyaswagat/SKYPATH---Airline-Analytics-Dashboard/blob/main/Delay_DashboardPNG.PNG)  
 
 
